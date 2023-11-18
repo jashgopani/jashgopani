@@ -1,18 +1,15 @@
-<!-- ### Hi there 👋 -->
-
-<!-- ### Hi, I'm Jash! 👋
-
-- 🔭 I’m currently working at Accenture as a Full Stack Developer
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on github,LinkedIn
-- 📫 How to reach me: [@niteshHebbare](https://www.linkedin.com/in/nitesh-hebbare/)
-- 😄 Pronouns: He/His
+### Hi, I'm Jash Gopani! 👋
+<p align="center">
+ <img src="./motto.jpg">
+</p>
 
 
-
-### 🏆   Recent Achievements
-
-- Research paper : A Neural Network based Collaborative Approach for Spam Detection got published in IRJET
+- 🔭 I’m currently a Master of Computer Science Student at NC State University 🐺
+- 🌱 I’m currently learning WebGL and Docker
+- 📫 How to reach me: [@jashgopani](https://www.linkedin.com/in/jashgopani/)
+- ⚡ Fun fact: I can make any language cryptic
+- 🎲 Other interests: Photography, Graphic Design, Yoga
+- 😄 Pronouns: He/His/Him
 
 <br />
 
@@ -21,9 +18,10 @@
 <p align="center">
  <b><i>Let's connect!</i></b>
   <p align='center'>
-<a href="https://www.linkedin.com/in/nitesh-hebbare/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white""></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/nitesh.hebbare/" target="_blank"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:nitesh.hebbare@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jashgopani/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>
+<a href="https://twitter.com/jash85199" target="_blank"><img height="30" alt="X (formerly Twitter)" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
+<a href="https://dev.to/jashgopani" target="_blank"><img height="30" alt="Dev.to" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg"></a>
+<a href="mailto:jashgopanincsu@gmail.com" target="_blank"><img height="30" src="[https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white](https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg)"></a>&nbsp;&nbsp;                                                           
 </p>
 </p>
 
@@ -31,8 +29,8 @@
 ### 👨‍💻 &nbsp; Languages and Tools
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet" width="40" height="40" title="dotnet" />
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java" />
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="java" width="40" height="40" title="Javascript" />
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
   <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="C++" width="40" height="40" title="C++"/>
@@ -65,7 +63,6 @@
 </p>
 
 ---
- -->
  <p align="center">
   
 <a href="https://github.com/nitrohub" target="_blank">
@@ -74,19 +71,3 @@
  
   
   </p>
-
-
-<!--
-**jashgopani/jashgopani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
