@@ -13,8 +13,7 @@
 
 <br />
 
-</p>
- <center>
+<center>
   
 <a href="https://github.com/nitrohub" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jashgopani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jash Gopani | Stats" />
@@ -74,8 +73,6 @@
   <img src="https://brandeps.com/logo-download/A/Adobe-Creative-Cloud-logo-vector-03.svg" alt="adobe CC"  height="40" title="Adobe CC" />
 </p>
   
-</p>
-
 ---
 
 <center>
@@ -88,3 +85,4 @@
 <a href="https://twitter.com/jash85199" target="_blank"><img height="30" alt="X (formerly Twitter)" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"></a>
 <a href="https://dev.to/jashgopani" target="_blank"><img height="30" alt="Dev.to" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg"></a>
 <a href="mailto:jashgopanincsu@gmail.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"></a>
+</p>
