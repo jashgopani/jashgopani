@@ -5,7 +5,8 @@
 </p>
 
 -   🔭 I’m currently a Master of Computer Science Student at NC State University 🐺
--   🌱 I’m currently learning Qiskit and Docker
+-   🌱 I’m currently learning Docker
+-   ⚛️ Trying out Quantum Computing and Bioinformatics
 -   📫 How to reach me: [@jashgopani](https://www.linkedin.com/in/jashgopani/)
 -   ⚡ Fun fact: I can make any language cryptic
 -   🎲 Other interests: Photography, Graphic Design, Yoga
@@ -25,7 +26,7 @@
 
 <center>
 
-### :bulb: &nbsp; Languages, Technologies, Software Tools
+### 🧰 &nbsp; Languages, Technologies, Software Tools
 
 </center>
 &nbsp;
