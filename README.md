@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="40" title="Git" />
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github"  height="40" title="GitHub" />
-  <img src="https://icons-for-free.com/iconfiles/png/512/desktop+microsoft+os+screen+technology+windows+icon-1320192780138264654.png" alt="windows"  height="40" title="Windows OS" />
+  <img src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="windows"  height="40" title="Windows OS" />
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"  height="40" title="Linux OS" />
 </p>
 
