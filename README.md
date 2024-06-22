@@ -5,8 +5,7 @@
 </p>
 
 -   🔭 I’m currently a Master of Computer Science Student at NC State University 🐺
--   🌱 I’m currently learning Docker
--   ⚛️ Trying out Quantum Computing and Bioinformatics
+-   🌱 Learning development of cloud-native apps on Azure and cloud automation tools like Ansible and Terraform
 -   📫 How to reach me: [@jashgopani](https://www.linkedin.com/in/jashgopani/)
 -   ⚡ Fun fact: I can make any language cryptic
 -   🎲 Other interests: Photography, Graphic Design, Yoga
